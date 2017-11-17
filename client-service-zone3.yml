@@ -6,4 +6,4 @@ eureka:
     serviceUrl:
       defaultZone: http://localhost:8761/eureka/
 server:  
-  port: ${PORT:8083}
+  port: ${PORT:8084}
