@@ -12,4 +12,4 @@ sample:
   string:
     property: Client App
   int:
-    property: 1
+    property: 2
