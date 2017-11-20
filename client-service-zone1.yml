@@ -7,3 +7,9 @@ eureka:
       defaultZone: http://localhost:8761/eureka/
 server:  
   port: ${PORT:8081}
+  
+sample:
+  string:
+    property: Client App
+  int:
+    property: 1
