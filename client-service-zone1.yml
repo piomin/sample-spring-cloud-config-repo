@@ -21,6 +21,6 @@ management:
     
 sample:
   string:
-    property: Client Application
+    property: Client Application kawa
   int:
-    property: 3
+    property: 2
